@@ -5,7 +5,6 @@ metadata:
   annotations:
     github.com/project-slug: ironcore864/node-test
     backstage.io/techdocs-ref: dir:.
-    vault.io/secrets-path: test1
 spec:
   type: service
   lifecycle: experimental
